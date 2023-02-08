@@ -12,7 +12,8 @@ namespace BasicPrograms
         {
             //Vovel.VowelChar();
             //toss.Flip();
-            swap.SwapNumber();
+            //swap.SwapNumber();
+            Power.pow();
             Console.ReadLine();
         }
     }
