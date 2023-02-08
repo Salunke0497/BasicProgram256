@@ -18,7 +18,8 @@ namespace BasicPrograms
             //LargestNum.max();
             //Harmonic.harmonic();
             //Factor.factor();
-            EvenOdd.evenodd();
+            //EvenOdd.evenodd();
+            QuotientRemainder.value();
             Console.ReadLine();
         }
     }
