@@ -13,7 +13,8 @@ namespace BasicPrograms
             //Vovel.VowelChar();
             //toss.Flip();
             //swap.SwapNumber();
-            Power.pow();
+            //Power.pow();
+            LeapYear.LEAP();
             Console.ReadLine();
         }
     }
