@@ -11,7 +11,8 @@ namespace BasicPrograms
         static void Main(string[] args)
         {
             //Vovel.VowelChar();
-            toss.Flip();
+            //toss.Flip();
+            swap.SwapNumber();
             Console.ReadLine();
         }
     }
