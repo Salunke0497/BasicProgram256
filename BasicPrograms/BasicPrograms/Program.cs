@@ -17,7 +17,8 @@ namespace BasicPrograms
             //LeapYear.LEAP();
             //LargestNum.max();
             //Harmonic.harmonic();
-            Factor.factor();
+            //Factor.factor();
+            EvenOdd.evenodd();
             Console.ReadLine();
         }
     }
