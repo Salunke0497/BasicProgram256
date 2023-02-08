@@ -15,7 +15,8 @@ namespace BasicPrograms
             //swap.SwapNumber();
             //Power.pow();
             //LeapYear.LEAP();
-            LargestNum.max();
+            //LargestNum.max();
+            Harmonic.harmonic();
             Console.ReadLine();
         }
     }
